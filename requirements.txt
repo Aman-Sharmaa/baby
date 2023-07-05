@@ -1,0 +1,9 @@
+fastapi==0.99.1
+librosa==0.10.0.post2
+noisereduce==2.0.1
+numpy==1.21.0
+numpy==1.24.3
+pandas==1.4.3
+pandas==2.0.1
+streamlit==1.22.0
+uvicorn==0.22.0
